@@ -1,6 +1,7 @@
 # SonicScore
 The official SonicScore project editor.
 
+
 ## Features
 - Create, Share, and Print your custom SonicScore projects
 - Encrypted files ensure privacy and property protection
@@ -11,4 +12,6 @@ The official SonicScore project editor.
 **No Activation Key?** When you purchase a lisence, you'll find the key in your email. 
 **Issues with your activation?** Contact me via tinocardenes.com, or email me! 
 **Want a sample?** Contact me to get a temporary key. 
+
+Only Available for MacOS.
 
