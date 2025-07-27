@@ -1,7 +1,0 @@
-{
-    "main" :
-    [
-        "belt", "bowl", "divider", "drone", "droneline", "f", "htap", "htapscoop", "hum", "itapL", "itapR", "koshi", "line", "m", "pause", "pulse", "redrone", "redroneline", "rest", "s" ,"sesawL", "sesawR", "sing", "ss", "tap", "tapscoop", "tick", "wave", "whisper", "empty"]
-        ,
-        "user" : ["fake"]
-}
